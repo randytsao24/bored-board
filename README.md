@@ -1,6 +1,6 @@
-## Randy Tsao's GH Page
+## Bored Board
 
-Hi, check out my stuff hosted on GitHub Pages for more details - [randytsao24.github.io](https://randytsao24.github.io/).
+A simple discussion board.
 
 ### Site Details
 
